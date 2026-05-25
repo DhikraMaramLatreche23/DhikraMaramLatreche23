@@ -81,7 +81,7 @@ Passionate about mathematics, artificial intelligence, and new technologies. I e
 
 | Project | Description | Tech |
 |---|---|---|
-| [Restaurant Chain Management System](https://github.com/DhikraMaramLatreche23/Restaurant-Chain-Management) | BST/AVL tree-based system managing sales, costs, and monthly prize winners for a restaurant chain | C++ |
+| [Restaurant Chain Management System](https://github.com/DhikraMaramLatreche23/DSA-Restaurant-Chain-Management-System) | BST/AVL tree-based system managing sales, costs, and monthly prize winners for a restaurant chain | C++ |
 
 ---
 
