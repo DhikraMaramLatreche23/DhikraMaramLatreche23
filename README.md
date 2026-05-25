@@ -51,23 +51,44 @@ Passionate about mathematics, artificial intelligence, and new technologies. I e
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
+
+### 🤖 AI & Machine Learning
 
 | Project | Description | Tech |
 |---|---|---|
-| [AmanLLM — Darija QA](https://github.com/DhikraMaramLatreche23/AmanLLM_AI_Model) | NLP pipeline translating Algerian Darija → MSA + fine-tuned Qwen2.5-3B (LoRA) | Python, Transformers |
-| [CV–Job Matching](https://github.com/DhikraMaramLatreche23/CV-JOB-Matching) | Semantic similarity system to rank CVs against job offers | Python, NLP |
-| [Algérie Télécom Dashboard](https://github.com/DhikraMaramLatreche23/Algerie_Telecom_Dashboard) | Forecasting app with Prophet, SARIMAX, XGBoost, LSTM + Streamlit UI | Python, Streamlit |
-| [Ambulance Route Optimization](https://github.com/DhikraMaramLatreche23/Ambulance-route-optimization-Algiers-hospitals-) | Optimized ambulance routing with an interactive web interface | Python, HTML |
-| [ML Project Collection](https://github.com/DhikraMaramLatreche23/Machine-Learning-Project-) | Classification & regression with EDA and multiple model comparisons | Python, Scikit-Learn |
+| [AmanLLM - Darija QA](https://github.com/DhikraMaramLatreche23/AmanLLM_AI_Model) | NLP pipeline translating Algerian Darija → MSA + fine-tuned Qwen2.5-3B with LoRA | Python, Transformers |
+| [CV-Job Matching](https://github.com/DhikraMaramLatreche23/CV-JOB-Matching) | Semantic similarity system to automatically rank CVs against job offers | Python, NLP |
+| [Algérie Télécom Dashboard](https://github.com/DhikraMaramLatreche23/Algerie_Telecom_Dashboard) | Forecasting & decision-support app with Prophet, SARIMAX, XGBoost, LSTM + Streamlit UI | Python, Streamlit |
+| [ML Project Collection](https://github.com/DhikraMaramLatreche23/Machine-Learning-Project-) | Classification & regression tasks with EDA and multiple model comparisons | Python, Scikit-Learn |
 | [EEG Sleep Stage Classification](https://github.com/DhikraMaramLatreche23/TSA---EEG-Sleep-Stage-Classification) | Time series analysis for EEG-based sleep stage detection | Python, Jupyter |
+| [Ambulance Route Optimization](https://github.com/DhikraMaramLatreche23/Ambulance-route-optimization-Algiers-hospitals-) | Optimized ambulance routing network across Algiers hospitals with interactive web UI | Python, HTML |
+
+### 🌐 Web & Blockchain
+
+| Project | Description | Tech |
+|---|---|---|
+| [Blockchain Voting App](https://github.com/DhikraMaramLatreche23/BlockChain_Voting_App) | Decentralized, tamper-proof election platform on Ethereum — smart contracts, MetaMask, one-vote-per-address enforcement | Solidity, React, Ethers.js |
+| [Dentist Management System](https://github.com/DhikraMaramLatreche23/Dentist-Management-System) | Full-stack web app to manage dental clinic patients, appointments, and records with role-based access | React, Node.js, MySQL |
+
+### 📱 Mobile
+
+| Project | Description | Tech |
+|---|---|---|
+| [MARKILI - Medical App](https://github.com/DhikraMaramLatreche23/MARKILI-flutter-mobile-app) | Cross-platform app for doctor–patient appointment booking and schedule management | Flutter, Dart |
+
+### 🔧 Systems & Algorithms
+
+| Project | Description | Tech |
+|---|---|---|
+| [Restaurant Chain Management System](https://github.com/DhikraMaramLatreche23/Restaurant-Chain-Management) | BST/AVL tree-based system managing sales, costs, and monthly prize winners for a restaurant chain | C++ |
 
 ---
 
 ## 💼 Experience
 
-- **Algérie Télécom** *(Sept. 2025)* — Built a forecasting & decision-support web app for telecom data analysis
-- **SCMI – Société des Ciments de la Mitidja** *(Oct. 2024 – Jan. 2025)* — ML-based invoice prediction and data-driven insights
+- **Algérie Télécom** *(Sept. 2025)* - Built a forecasting & decision-support web app for telecom data analysis
+- **SCMI – Société des Ciments de la Mitidja** *(Oct. 2024 - Jan. 2025)* - ML-based invoice prediction and data-driven insights
 
 ---
 
