@@ -75,7 +75,7 @@ Passionate about mathematics, artificial intelligence, and new technologies. I e
 
 | Project | Description | Tech |
 |---|---|---|
-| [MARKILI - Medical App](https://github.com/DhikraMaramLatreche23/MARKILI-flutter-mobile-app) | Cross-platform app for doctor–patient appointment booking and schedule management | Flutter, Dart |
+| [MARKILI - Medical App](https://github.com/DhikraMaramLatreche23/MobDevProject) | Cross-platform app for doctor–patient appointment booking and schedule management | Flutter, Dart |
 
 ### 🔧 Systems & Algorithms
 
